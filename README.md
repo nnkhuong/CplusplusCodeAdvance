@@ -1,4 +1,4 @@
-sum_square
+CplusplusCodeAdvance
 ==========
 
-calculating a sum of squares of some integers, excepting negatives
+The necessary C++ knowledge 
